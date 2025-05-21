@@ -1,2 +1,1 @@
 ﻿# Ardiyona.github.io
-https://ardiyona.github.io/testimonial-card/index.html
